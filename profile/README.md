@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://callerhouse.com" title="CallerHouse reverse phone lookup">
-    <img src="./img/callerhouseicon.svg" alt="CallerHouse logo - reverse phone lookup and spam caller reports" width="116" />
+    <img src="https://raw.githubusercontent.com/Caller-House/.github/main/img/callerhouseicon.svg" alt="CallerHouse logo - reverse phone lookup and spam caller reports" width="116" />
   </a>
 
   <h1>CallerHouse.com</h1>
@@ -21,7 +21,7 @@
   </p>
 
   <a href="https://callerhouse.com" title="Open CallerHouse">
-    <img src="./img/coverimage.png" alt="CallerHouse project overview cover image for reverse phone lookup, spam reports, caller ID lookup, and phone scam protection" width="720" />
+    <img src="https://raw.githubusercontent.com/Caller-House/.github/main/img/coverimage.png" alt="CallerHouse project overview cover image for reverse phone lookup, spam reports, caller ID lookup, and phone scam protection" width="720" />
   </a>
 </div>
 
